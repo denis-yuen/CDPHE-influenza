@@ -1,5 +1,7 @@
 # CDPHE-influenza
 
+Test
+
 ## In development
 This repository is in active development. This document describes the Colorado Department of Public Health and Environment's workflow for the assembly and anlaysis of whole genome sequenicng data of influenza A and B ulitizing the Terra.bio platform. The influenza_assembly.wdl workflow was adapted from Thieagen Genomics's theacov_pe workflow for influenza. 
 
